@@ -1,0 +1,12 @@
+Namespace(agnostic_nms=False, augment=False, classes=None, conf_thres=0.25, device='', exist_ok=False, img_size=640, iou_thres=0.45, name='exp', nosave=False, project='runs/detect', save_conf=False, save_txt=False, source='TestImages/test3.jpg', update=False, view_img=True, weights='runs/train/exp5/weights/best.pt')
+Fusing layers... 
+image 1/1 /Users/liuyuxin/Desktop/LEEDS/Study/MSCProject/yolov5-5.0_Including_location/TestImages/test3.jpg: 640x480 1 Desk, 1 Person, 1 Computer, 3 Chairs, 1 Cabinet, 1 Abnormal_item, Done. (0.539s)
+Results saved to runs/detect/exp25
+Done. (4.368s)
+Namespace(agnostic_nms=False, augment=False, classes=None, conf_thres=0.25, device='', exist_ok=False, img_size=640, iou_thres=0.45, name='exp', nosave=False, project='runs/detect', save_conf=False, save_txt=False, source='TestImages', update=False, view_img=True, weights='runs/train/exp5/weights/best.pt')
+Fusing layers... 
+image 1/3 /Users/liuyuxin/Desktop/LEEDS/Study/MSCProject/YOLO_Detection_Project/yolov5-5.0_Including_location/TestImages/test1.jpg: 640x480 1 Person, 1 Computer, 2 Chairs, 1 Cabinet, Done. (0.898s)
+image 2/3 /Users/liuyuxin/Desktop/LEEDS/Study/MSCProject/YOLO_Detection_Project/yolov5-5.0_Including_location/TestImages/test2.jpg: 640x480 1 Person, 3 Computers, 5 Chairs, 1 Abnormal_item, Done. (0.591s)
+image 3/3 /Users/liuyuxin/Desktop/LEEDS/Study/MSCProject/YOLO_Detection_Project/yolov5-5.0_Including_location/TestImages/test3.jpg: 640x480 1 Desk, 1 Person, 1 Computer, 3 Chairs, 1 Cabinet, 1 Abnormal_item, Done. (0.578s)
+Results saved to runs/detect/exp29
+Done. (8.209s)

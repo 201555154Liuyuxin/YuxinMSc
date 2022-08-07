@@ -1,0 +1,7 @@
+Test2 filter=lfs diff=lfs merge=lfs -text
+Test3 filter=lfs diff=lfs merge=lfs -text
+detect.py filter=lfs diff=lfs merge=lfs -text
+terminal_output_20220718.txt filter=lfs diff=lfs merge=lfs -text
+terminal_output_20220722.txt filter=lfs diff=lfs merge=lfs -text
+terminnal_output.txt filter=lfs diff=lfs merge=lfs -text
+Test1 filter=lfs diff=lfs merge=lfs -text
